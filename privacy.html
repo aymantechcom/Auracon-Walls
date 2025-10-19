@@ -190,16 +190,17 @@
             content.setAttribute('lang', newLang);
             
             // تحديث نص الزر
-            const newButtonText = button.getAttribute('data-' + (newLang === 'ar' ? 'ar' : 'en'));
+            const newButtonText = button.getAttribute('data-' + (newLang === 'ar' ? 'en' : 'ar')); // عكس النص المعروض على الزر
             button.textContent = newButtonText;
             
             // تحديث عنوان الصفحة
             title.textContent = title.getAttribute('data-' + newLang);
 
 
-            // تحديث محتوى النصوص بناءً على لغة العرض الجديدة
+            // التعديل الحاسم: استخدام innerHTML لعرض وسوم HTML
             document.querySelectorAll('[data-ar][data-en]').forEach(element => {
-                element.textContent = element.getAttribute('data-' + newLang);
+                // نستخدم innerHTML هنا حتى يتم تفسير وسم <b>
+                element.innerHTML = element.getAttribute('data-' + newLang);
             });
         }
     </script>
