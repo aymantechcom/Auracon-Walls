@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-ar="الشروط والأحكام | Auracon" data-en="Terms and Conditions | Auracon">الشروط والأحكام | Auracon</title>
-    <!-- تم جلب نفس تنسيقات سياسة الخصوصية لتوحيد التصميم -->
     <style>
         :root {
             --primary-color: #673AB7; /* البنفسجي */
@@ -21,7 +20,7 @@
             background-color: var(--background-color);
             color: var(--text-color);
             line-height: 1.6;
-            direction: rtl; /* اتجاه القراءة من اليمين لليسار */
+            direction: rtl; 
             text-align: right;
         }
 
@@ -56,12 +55,13 @@
             margin-top: 30px;
         }
 
-        ol {
+        ol, ul {
             padding-right: 20px;
         }
 
-        [lang="en"] ol {
+        [lang="en"] ol, [lang="en"] ul {
             padding-left: 20px;
+            padding-right: 0;
         }
 
         .lang-switch {
@@ -84,7 +84,6 @@
             background-color: var(--secondary-color);
         }
 
-        /* تنسيق خاص للإنجليزية */
         [lang="en"] {
             direction: ltr;
             text-align: left;
@@ -108,8 +107,8 @@
             </header>
 
             <h2 data-ar="1. القبول بالشروط" data-en="1. Acceptance of Terms">1. القبول بالشروط</h2>
-            <p data-ar="يتم تشغيل تطبيق <b>Auracon</b> (المشار إليه فيما يلي باسم 'الخدمة') بواسطة <b>أيمن تك</b> (المشار إليه فيما يلي باسم 'نحن'، 'المطور'). باستخدامك لخدمتنا، فإنك تقر وتوافق على الالتزام بشروط الخدمة هذه ('الشروط'). إذا كنت لا توافق على أي جزء من هذه الشروط، فلا يجوز لك استخدام الخدمة."
-               data-en="The <b>Auracon</b> application (hereinafter referred to as the 'Service') is operated by <b>Ayman Tech</b> (hereinafter referred to as 'We', 'The Developer'). By using our Service, you acknowledge and agree to be bound by these Terms of Service ('Terms'). If you do not agree to any part of the Terms, then you may not access the Service.">يتم تشغيل تطبيق <b>Auracon</b> (المشار إليه فيما يلي باسم 'الخدمة') بواسطة <b>أيمن تك</b> (المشار إليه فيما يلي باسم 'نحن'، 'المطور'). باستخدامك لخدمتنا، فإنك تقر وتوافق على الالتزام بشروط الخدمة هذه ('الشروط'). إذا كنت لا توافق على أي جزء من هذه الشروط، فلا يجوز لك استخدام الخدمة.</p>
+            <p data-ar="يتم تشغيل تطبيق <b>Auracon</b> (المشار إليه فيما يلي باسم 'الخدمة') بواسطة <b>أيمن تك</b> (المشار إليه فيما يلي باسم 'نحن'، 'المطور'). باستخدامك لهذه الخدمة التي تُقدم مجاناً وتستهدف الاستخدام 'كما هي'، فإنك توافق على الالتزام بشروط الاستخدام هذه ('الشروط'). إذا كنت لا توافق على أي جزء من هذه الشروط، فلا يجوز لك استخدام الخدمة. المصطلحات المستخدمة في هذه الشروط لها نفس المعاني الواردة في سياسة الخصوصية الخاصة بنا ما لم يتم تعريفها على خلاف ذلك."
+               data-en="The <b>Auracon</b> application (hereinafter referred to as the 'Service') is operated by <b>Ayman Tech</b> (hereinafter referred to as 'We', 'The Developer'). By using this Service, which is provided at no cost and is intended for use 'as is', you agree to be bound by these Terms of Use ('Terms'). If you do not agree to any part of the Terms, then you may not access the Service. The terms used in these Terms have the same meanings as in our Privacy Policy unless otherwise defined.">يتم تشغيل تطبيق <b>Auracon</b> (المشار إليه فيما يلي باسم 'الخدمة') بواسطة <b>أيمن تك</b> (المشار إليه فيما يلي باسم 'نحن'، 'المطور'). باستخدامك لهذه الخدمة التي تُقدم مجاناً وتستهدف الاستخدام 'كما هي'، فإنك توافق على الالتزام بشروط الاستخدام هذه ('الشروط'). إذا كنت لا توافق على أي جزء من هذه الشروط، فلا يجوز لك استخدام الخدمة. المصطلحات المستخدمة في هذه الشروط لها نفس المعاني الواردة في سياسة الخصوصية الخاصة بنا ما لم يتم تعريفها على خلاف ذلك.</p>
 
             <h2 data-ar="2. الترخيص وحقوق الملكية" data-en="2. License and Intellectual Property">2. الترخيص وحقوق الملكية</h2>
             <p data-ar="يمنحك المطور ترخيصاً محدوداً وغير حصري وقابلاً للإلغاء وغير قابل للتحويل لاستخدام تطبيق <b>Auracon</b> على جهازك الخاص. جميع حقوق الملكية الفكرية لحزمة الأيقونات، الخلفيات، والتصميم الداخلي للتطبيق مملوكة لـ <b>أيمن تك</b> ولا يجوز نسخها أو إعادة توزيعها أو بيعها دون إذن كتابي."
@@ -146,31 +145,21 @@
     </div>
 
     <script>
-        // دالة التبديل بين اللغات (معدلة لاستخدام innerHTML)
         function toggleLanguage() {
             const content = document.getElementById('policy-content');
             const button = document.querySelector('.lang-btn span');
             const title = document.querySelector('title');
             
             let currentLang = content.getAttribute('lang');
-            let newLang;
-
-            if (currentLang === 'ar') {
-                newLang = 'en';
-            } else {
-                newLang = 'ar';
-            }
+            let newLang = currentLang === 'ar' ? 'en' : 'ar';
 
             content.setAttribute('lang', newLang);
             
-            // تحديث نص الزر
             const newButtonText = button.getAttribute('data-' + (newLang === 'ar' ? 'en' : 'ar'));
             button.textContent = newButtonText;
             
-            // تحديث عنوان الصفحة
             title.textContent = title.getAttribute('data-' + newLang);
 
-            // التعديل الحاسم: استخدام innerHTML بدلاً من textContent لعرض وسوم HTML (مثل <b>)
             document.querySelectorAll('[data-ar][data-en]').forEach(element => {
                 element.innerHTML = element.getAttribute('data-' + newLang);
             });
