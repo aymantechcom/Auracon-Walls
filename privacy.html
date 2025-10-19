@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سياسة الخصوصية | Auracon</title>
+    <style>
+        :root {
+            --primary-color: #673AB7; /* البنفسجي */
+            --secondary-color: #512DA8; /* بنفسجي أغمق */
+            --text-color: #333;
+            --background-color: #f8f8f8;
+            --card-background: #ffffff;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            direction: rtl; /* اتجاه القراءة من اليمين لليسار */
+            text-align: right;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: var(--card-background);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 25px 20px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            text-align: center;
+            margin: -20px -20px 20px -20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        h2 {
+            color: var(--secondary-color);
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            text-align: right;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #e9e2f4; /* خلفية فاتحة للرؤوس */
+            color: var(--secondary-color);
+            font-weight: bold;
+        }
+
+        .lang-switch {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .lang-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .lang-btn:hover {
+            background-color: var(--secondary-color);
+        }
+
+        /* تنسيق خاص للإنجليزية */
+        [lang="en"] {
+            direction: ltr;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="lang-switch">
+            <button class="lang-btn" onclick="toggleLanguage()">
+                <span data-ar="English" data-en="العربية">English</span>
+            </button>
+        </div>
+
+        <div id="policy-content" lang="ar">
+            <header>
+                <h1 data-ar="سياسة الخصوصية" data-en="Privacy Policy">سياسة الخصوصية</h1>
+                <p data-ar="لتطبيق Auracon" data-en="for Auracon App">لتطبيق Auracon</p>
+                <p data-ar="تاريخ السريان: 19 أكتوبر 2025" data-en="Effective Date: October 19, 2025">تاريخ السريان: 19 أكتوبر 2025</p>
+            </header>
+
+            <h2 data-ar="1. المقدمة" data-en="1. Introduction">1. المقدمة</h2>
+            <p data-ar="نحن في **Ayman Tech** ندير تطبيق **Auracon** (يُشار إليه فيما يلي باسم 'الخدمة'). توضح هذه الصفحة سياساتنا المتعلقة بجمع واستخدام والكشف عن المعلومات عند استخدامك لخدمتنا. نحن نستخدم هذه البيانات لتحسين الخدمة وتقديمها. باستخدامك للخدمة، فإنك توافق على جمع واستخدام المعلومات وفقاً لهذه السياسة." data-en="We at **Ayman Tech** operate the **Auracon** application (hereinafter referred to as the 'Service'). This page informs you of our policies regarding the collection, use, and disclosure of information when you use our Service. We use this data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.">نحن في **Ayman Tech** ندير تطبيق **Auracon** (يُشار إليه فيما يلي باسم "الخدمة"). توضح هذه الصفحة سياساتنا المتعلقة بجمع واستخدام والكشف عن المعلومات عند استخدامك لخدمتنا. نحن نستخدم هذه البيانات لتحسين الخدمة وتقديمها. باستخدامك للخدمة، فإنك توافق على جمع واستخدام المعلومات وفقاً لهذه السياسة.</p>
+
+            <h2 data-ar="2. جمع المعلومات واستخدامها" data-en="2. Information Collection and Use">2. جمع المعلومات واستخدامها</h2>
+            <p data-ar="بصفتنا مطورين لتطبيق حزمة أيقونات (Icon Pack)، فإننا **لا نجمع** أي معلومات شخصية محددة (Personally Identifiable Information - PII) منك مباشرة." data-en="As a developer of an Icon Pack application, we **do not** directly collect any Personally Identifiable Information (PII) from you.">بصفتنا مطورين لتطبيق حزمة أيقونات (Icon Pack)، فإننا **لا نجمع** أي معلومات شخصية محددة (Personally Identifiable Information - PII) منك مباشرة.</p>
+
+            <h3 data-ar="أ. البيانات التي يتم جمعها تلقائيًا (عبر خدمات الطرف الثالث)" data-en="A. Automatically Collected Data (Via Third-Party Services)">أ. البيانات التي يتم جمعها تلقائيًا (عبر خدمات الطرف الثالث)</h3>
+            <p data-ar="قد يستخدم تطبيقنا خدمات طرف ثالث قد تقوم بجمع معلومات غير شخصية (Non-Personal) لأغراض التشخيص والتحليل وتحسين جودة الخدمة والأداء. ومن هذه الخدمات:" data-en="Our app may use third-party services that may collect non-personal information for diagnostic, analytical, and service quality improvement purposes. These services include:">قد يستخدم تطبيقنا خدمات طرف ثالث قد تقوم بجمع معلومات غير شخصية (Non-Personal) لأغراض التشخيص والتحليل وتحسين جودة الخدمة والأداء. ومن هذه الخدمات:</p>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th data-ar="الطرف الثالث" data-en="Third Party">الطرف الثالث</th>
+                        <th data-ar="نوع البيانات المجمعة" data-en="Data Collected">نوع البيانات المجمعة</th>
+                        <th data-ar="الغرض من الجمع" data-en="Purpose of Collection">الغرض من الجمع</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td data-ar="Google Play Services" data-en="Google Play Services">Google Play Services</td>
+                        <td data-ar="معرّفات الأجهزة، بيانات التشخيص، بيانات الموقع التقريبي." data-en="Device identifiers, diagnostic data, approximate location data.">معرّفات الأجهزة، بيانات التشخيص، بيانات الموقع التقريبي.</td>
+                        <td data-ar="تحسين وظائف التطبيق الرئيسية وإدارة التطبيق من قِبل Google." data-en="Improving core app functionality and app management by Google.">تحسين وظائف التطبيق الرئيسية وإدارة التطبيق من قِبل Google.</td>
+                    </tr>
+                    <tr>
+                        <td data-ar="Google Firebase (Analytics & Crashlytics)" data-en="Google Firebase (Analytics & Crashlytics)">Google Firebase (Analytics & Crashlytics)</td>
+                        <td data-ar="سلوك المستخدم (مثل أقسام التطبيق التي تمت زيارتها)، بيانات الأعطال والأخطاء، معرّف التطبيق." data-en="User behavior (e.g., app sections visited), crash and error data, app identifier.">سلوك المستخدم (مثل أقسام التطبيق التي تمت زيارتها)، بيانات الأعطال والأخطاء، معرّف التطبيق.</td>
+                        <td data-ar="تحليل أداء التطبيق، فهم كيفية استخدام المستخدمين له، وتحديد وإصلاح الأخطاء." data-en="Analyzing app performance, understanding user engagement, and identifying/fixing bugs.">تحليل أداء التطبيق، فهم كيفية استخدام المستخدمين له، وتحديد وإصلاح الأخطاء.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3 data-ar="ب. البيانات التي يجمعها التطبيق مباشرة" data-en="B. Data Directly Collected by the App">ب. البيانات التي يجمعها التطبيق مباشرة</h3>
+            <p data-ar="التطبيق لا يجمع أي معلومات شخصية منك مباشرة. أي بيانات يتم تخزينها (مثل تفضيلاتك الخاصة أو الخلفيات المفضلة لديك) يتم تخزينها محليًا على جهازك فقط ولا يتم إرسالها إلينا." data-en="The app does not directly collect any personal information from you. Any data stored (such as your specific preferences or favorite wallpapers) is stored locally on your device only and is not transmitted to us.">التطبيق لا يجمع أي معلومات شخصية منك مباشرة. أي بيانات يتم تخزينها (مثل تفضيلاتك الخاصة أو الخلفيات المفضلة لديك) يتم تخزينها محليًا على جهازك فقط ولا يتم إرسالها إلينا.</p>
+
+            <h2 data-ar="3. أمن البيانات" data-en="3. Security of Data">3. أمن البيانات</h2>
+            <p data-ar="إن أمن بياناتك مهم بالنسبة لنا. مع ذلك، تذكر أنه لا توجد طريقة نقل عبر الإنترنت أو طريقة تخزين إلكترونية آمنة بنسبة 100%. في حين أننا نسعى جاهدين لاستخدام وسائل مقبولة تجارياً لحماية البيانات، لا يمكننا ضمان أمنها المطلق." data-en="The security of your data is important to us. However, remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect the data, we cannot guarantee its absolute security.">إن أمن بياناتك مهم بالنسبة لنا. مع ذلك، تذكر أنه لا توجد طريقة نقل عبر الإنترنت أو طريقة تخزين إلكترونية آمنة بنسبة 100%. في حين أننا نسعى جاهدين لاستخدام وسائل مقبولة تجارياً لحماية البيانات، لا يمكننا ضمان أمنها المطلق.</p>
+
+            <h2 data-ar="4. خصوصية الأطفال" data-en="4. Children's Privacy">4. خصوصية الأطفال</h2>
+            <p data-ar="خدمتنا لا تتناول أي شخص يقل عمره عن 13 عاماً. نحن لا نجمع عن قصد معلومات شخصية محددة من أي شخص يقل عمره عن 13 عاماً. إذا كنت أحد الوالدين أو وصيًا وتدرك أن طفلك قد زودنا ببيانات شخصية، فيرجى الاتصال بنا فوراً." data-en="Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us immediately.">خدمتنا لا تتناول أي شخص يقل عمره عن 13 عاماً. نحن لا نجمع عن قصد معلومات شخصية محددة من أي شخص يقل عمره عن 13 عاماً. إذا كنت أحد الوالدين أو وصيًا وتدرك أن طفلك قد زودنا ببيانات شخصية، فيرجى الاتصال بنا فوراً.</p>
+
+            <h2 data-ar="5. التغييرات على سياسة الخصوصية هذه" data-en="5. Changes to This Privacy Policy">5. التغييرات على سياسة الخصوصية هذه</h2>
+            <p data-ar="قد نقوم بتحديث سياسة الخصوصية الخاصة بنا من وقت لآخر. سنقوم بإخطارك بأي تغييرات عن طريق نشر سياسة الخصوصية الجديدة على هذه الصفحة. يُنصح بمراجعة سياسة الخصوصية هذه بشكل دوري لأي تغييرات." data-en="We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.">قد نقوم بتحديث سياسة الخصوصية الخاصة بنا من وقت لآخر. سنقوم بإخطارك بأي تغييرات عن طريق نشر سياسة الخصوصية الجديدة على هذه الصفحة. يُنصح بمراجعة سياسة الخصوصية هذه بشكل دوري لأي تغييرات.</p>
+
+            <h2 data-ar="6. اتصل بنا" data-en="6. Contact Us">6. Contact Us</h2>
+            <p data-ar="إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه، يمكنك الاتصال بنا:" data-en="If you have any questions about this Privacy Policy, you can contact us:">إذا كان لديك أي أسئلة حول سياسة الخصوصية هذه، يمكنك الاتصال بنا:</p>
+            <p>
+                <span data-ar="عبر البريد الإلكتروني:" data-en="By email:">عبر البريد الإلكتروني:</span>
+                <a href="mailto:[عنوان البريد الإلكتروني الخاص بالدعم]" data-ar="[عنوان البريد الإلكتروني الخاص بالدعم]" data-en="[Your Support Email Address]">[عنوان البريد الإلكتروني الخاص بالدعم]</a>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // دالة التبديل بين اللغات
+        function toggleLanguage() {
+            const content = document.getElementById('policy-content');
+            const button = document.querySelector('.lang-btn span');
+            let currentLang = content.getAttribute('lang');
+            let newLang;
+
+            if (currentLang === 'ar') {
+                newLang = 'en';
+            } else {
+                newLang = 'ar';
+            }
+
+            content.setAttribute('lang', newLang);
+            
+            // تحديث نص الزر
+            const newButtonText = button.getAttribute('data-' + newLang);
+            button.textContent = newButtonText;
+
+            // تحديث محتوى النصوص بناءً على لغة العرض الجديدة
+            document.querySelectorAll('[data-ar][data-en]').forEach(element => {
+                element.textContent = element.getAttribute('data-' + newLang);
+            });
+        }
+    </script>
+</body>
+</html>
