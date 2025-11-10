@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "خط تجول - عريض",
+    "preview_image_url": "https://example.com/previews/tajawal_bold.png",
+    "download_url": "https://example.com/fonts/tajawal_bold.ttf",
+    "version": "1.0"
+  },
+  {
+    "name": "خط تجول - عادي",
+    "preview_image_url": "https://example.com/previews/tajawal_regular.png",
+    "download_url": "https://example.com/fonts/tajawal_regular.ttf",
+    "version": "1.0"
+  }
+]
