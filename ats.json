@@ -1,27 +1,27 @@
 [
   {
     "bundle_id": "bundle_001",
-    "user_name": "أيمن تك",
-    "user_image": "https://.../images/profile_pic.png",
+    "user_name": "مرحبا بك",
+    "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/logo_s10.png",
     "is_premium": false,
     "point_cost": 0,
     "pages": [
       {
         "page_id": "page_101",
         "type": "image",
-        "media_url": "https://.../images/story_image_1.jpg",
-        "duration_seconds": 5,
-        "swipe_up_link": "https://www.ayman-tech.com/article/1"
+        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://www.ayman-tech.com/"
       },
       {
         "page_id": "page_102",
         "type": "text",
-        "content": "هذا نص قصة جديد! تحقق من آخر مقال.",
+        "content": "لا تنس تقييم التطبيق على متجر التطبيقات.",
         "background_color": "#111198",
         "text_color": "#FFFFFF",
         "alignment": "center",
-        "duration_seconds": 3,
-        "swipe_up_link": "https://www.ayman-tech.com/article/2"
+        "duration_seconds": 10,
+        "swipe_up_link": "https://play.google.com/store/apps/details?id=com.aymantech.app"
       }
     ]
   },
