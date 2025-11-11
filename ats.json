@@ -33,8 +33,8 @@
     "pages": [
       {
         "page_id": "page_201",
-        "type": "image",
-        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
+        "type": "video",
+        "media_url": "https://videos.pexels.com/video-files/3971609/3971609-hd_706_1366_20fps.mp4",
         "duration_seconds": 15,
         "swipe_up_link": "https://www.ayman-tech.com/premium-offer"
       }
