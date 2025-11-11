@@ -1,0 +1,44 @@
+[
+  {
+    "bundle_id": "bundle_001",
+    "user_name": "أيمن تك",
+    "user_image": "https://.../images/profile_pic.png",
+    "is_premium": false,
+    "point_cost": 0,
+    "pages": [
+      {
+        "page_id": "page_101",
+        "type": "image",
+        "media_url": "https://.../images/story_image_1.jpg",
+        "duration_seconds": 5,
+        "swipe_up_link": "https://www.ayman-tech.com/article/1"
+      },
+      {
+        "page_id": "page_102",
+        "type": "text",
+        "content": "هذا نص قصة جديد! تحقق من آخر مقال.",
+        "background_color": "#111198",
+        "text_color": "#FFFFFF",
+        "alignment": "center",
+        "duration_seconds": 3,
+        "swipe_up_link": "https://www.ayman-tech.com/article/2"
+      }
+    ]
+  },
+  {
+    "bundle_id": "bundle_002",
+    "user_name": "عرض خاص",
+    "user_image": "https://.../images/premium_icon.png",
+    "is_premium": true,
+    "point_cost": 15,
+    "pages": [
+      {
+        "page_id": "page_201",
+        "type": "video",
+        "media_url": "https://.../videos/premium_story.mp4",
+        "duration_seconds": 15,
+        "swipe_up_link": "https://www.ayman-tech.com/premium-offer"
+      }
+    ]
+  }
+]
