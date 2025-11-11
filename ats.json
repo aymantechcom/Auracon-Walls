@@ -27,15 +27,15 @@
   },
   {
     "bundle_id": "bundle_002",
-    "user_name": "عرض خاص",
-    "user_image": "https://.../images/premium_icon.png",
+    "user_name": "ستوري تجربي",
+    "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/logo_s11.png",
     "is_premium": true,
     "point_cost": 15,
     "pages": [
       {
         "page_id": "page_201",
         "type": "video",
-        "media_url": "https://.../videos/premium_story.mp4",
+        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
         "duration_seconds": 15,
         "swipe_up_link": "https://www.ayman-tech.com/premium-offer"
       }
