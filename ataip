@@ -1,0 +1,14 @@
+{
+  "prompts": [
+    {
+      "id": "1",
+      "title": "قطة سيبرانية",
+      "model_name": "Midjourney v6",
+      "is_premium": false,
+      "prompt_ar": "قطة آلية في مدينة المستقبل...",
+      "prompt_en": "Cybernetic cat in a futuristic city...",
+      "image_url": "https://example.com/cat.jpg",
+      "is_high_res": true
+    }
+  ]
+}
