@@ -5,9 +5,49 @@
       "title": "قطة سيبرانية",
       "model_name": "Midjourney v6",
       "is_premium": false,
-      "prompt_ar": "قطة آلية في مدينة المستقبل...",
-      "prompt_en": "Cybernetic cat in a futuristic city...",
-      "image_url": "https://example.com/cat.jpg",
+      "prompt_ar": "قطة آلية في مدينة المستقبل، أضواء نيون زرقاء ووردية، تفاصيل دقيقة جداً للفرو المعدني، خلفية ضبابية، إضاءة سينمائية.",
+      "prompt_en": "Cybernetic cat in a futuristic city, blue and pink neon lights, hyper detailed metal fur, bokeh background, cinematic lighting.",
+      "image_url": "https://images.unsplash.com/photo-1615751072497-5f5169febe17?q=80&w=800&auto=format&fit=crop",
+      "is_high_res": true
+    },
+    {
+      "id": "2",
+      "title": "غابة مسحورة",
+      "model_name": "Stable Diffusion XL",
+      "is_premium": false,
+      "prompt_ar": "منظر طبيعي لغابة قديمة خيالية، أشجار عملاقة تتوهج من الداخل، وجنيات صغيرة تطير، جو ضبابي سحري، ضوء القمر يتسلل من بين الأغصان، دقة 8k.",
+      "prompt_en": "Fantasy ancient forest landscape, giant trees glowing from within, tiny flying fairies, magical misty atmosphere, moonlight filtering through branches, 8k resolution.",
+      "image_url": "https://images.unsplash.com/photo-1448375240586-dfd8d395ea6c?q=80&w=800&auto=format&fit=crop",
+      "is_high_res": true
+    },
+    {
+      "id": "3",
+      "title": "رائد فضاء نيون",
+      "model_name": "DALL-E 3",
+      "is_premium": true,
+      "prompt_ar": "رائد فضاء يقف وسط شارع مزدحم في طوكيو ليلاً، انعكاسات أضواء النيون الملونة على الخوذة الزجاجية، أسلوب سايبربانك، واقعية مفرطة.",
+      "prompt_en": "Astronaut standing in a busy Tokyo street at night, colorful neon light reflections on the glass helmet, cyberpunk style, hyper realistic.",
+      "image_url": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?q=80&w=800&auto=format&fit=crop",
+      "is_high_res": true
+    },
+    {
+      "id": "4",
+      "title": "بورتريه زيتي كلاسيكي",
+      "model_name": "Midjourney v5.2",
+      "is_premium": true,
+      "prompt_ar": "لوحة زيتية لامرأة عجوز بملامح حكيمة وتجاعيد تروي قصصاً، إضاءة ريمبرانت الدرامية، ضربات فرشاة واضحة وسميكة، ألوان دافئة بنية وذهبية.",
+      "prompt_en": "Oil painting of an old woman with wise features and storytelling wrinkles, dramatic Rembrandt lighting, visible thick brushstrokes, warm brown and golden colors.",
+      "image_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop",
+      "is_high_res": false
+    },
+    {
+      "id": "5",
+      "title": "عمارة إسلامية مستقبلية",
+      "model_name": "Leonardo AI",
+      "is_premium": false,
+      "prompt_ar": "مدينة مستقبلية تدمج العمارة الإسلامية التقليدية مع التكنولوجيا المتقدمة، قباب ذهبية طائرة، زخارف هندسية مضيئة باللون الفيروزي، وقت الغروب، منظور واسع.",
+      "prompt_en": "Futuristic city blending traditional Islamic architecture with advanced technology, floating golden domes, turquoise glowing geometric patterns, sunset time, wide angle.",
+      "image_url": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=800&auto=format&fit=crop",
       "is_high_res": true
     }
   ]
