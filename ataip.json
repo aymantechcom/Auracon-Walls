@@ -38,15 +38,15 @@
     },
     {
       "id": "4",
-      "title": "بورتريه زيتي كلاسيكي",
-      "model_name": "Midjourney v5.2",
+      "title": "بورتريه بإضاءة نيون مع تأثير شبحي",
+      "model_name": "NanoBanana",
       "is_premium": true,
-      "prompt_ar": "لوحة زيتية لامرأة عجوز بملامح حكيمة وتجاعيد تروي قصصاً، إضاءة ريمبرانت الدرامية، ضربات فرشاة واضحة وسميكة، ألوان دافئة بنية وذهبية.",
-      "prompt_en": "Oil painting of an old woman with wise features and storytelling wrinkles, dramatic Rembrandt lighting, visible thick brushstrokes, warm brown and golden colors.",
-      "image_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop",
+      "prompt_ar": "حول صورتي هذه إلى بورتريه معاصر حيث يتم إبراز الشخص بإضاءة نيون ديناميكية بلونين، مع تدرج بين الأزرق البارد والبنفسجي الدافئ يغمر الجسد والملامح، وتلقي الخلفية لونًا أرجوانيًا موحدًا وعميقًا، بينما يظهر تأثير شبحي خفيف كظل خلفي يضيف عمقًا وحركة بصرية.",
+      "prompt_en": "Turn this photo of me into a contemporary portrait where the subject is highlighted with dynamic two-tone neon lighting, featuring a gradient from cool blue to warm purple that washes over the body and facial features. The background should take on a deep, uniform violet color, while a subtle ghostly effect appears as a rear shadow, adding depth and visual motion.",
+      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/17638610.png",
       "is_high_res": false,
-      "category": "",
-      "tags": ["logo", "arabic", "Gemini"]
+      "category": "portrait",
+      "tags": ["portrait", "Photo", "Gemini"]
     },
     {
       "id": "5",
