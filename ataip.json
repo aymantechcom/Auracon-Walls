@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "شعار نصي كوفي مربع",
-      "model_name": "Gemini 3 Pro",
+      "model_name": "Nano Banana Pro",
       "is_premium": false,
       "prompt_ar": "اصنع شعارًا عربيًا هندسيًا مسطحًا (بنسبة 1:1، بدون مجسم عرضي) لـ -أيمن تك-. استخدم أسلوب الخط الكوفي المربع الحديث / الهندسي، حيث تُبنى أحرف -أيمن تك- كأشكال جريئة وممتلئة متشابكة معًا مثل الأحجية. ضع كلمة -تقنية- بحجم أصغر ولكن بشكل متكامل أسفل أو بجانب -أيمن تك-، بحيث يبدو الشكل العام ككتلة شعارية واحدة متماسكة. اجعل التصميم بسيطًا جدًا وحديثًا، مع حواف حادة ومساحات سلبية بارعة توحي بالتكنولوجيا والذكاء الاصطناعي. اقصر اللوحة اللونية على لونين فقط. بدون أيقونات، بدون تدرجات، بدون نص إنجليزي، بدون تأثيرات ثلاثية الأبعاد. فقط شعار كلمات عربي هندسي إبداعي.",
       "prompt_en": "Create a flat geometric Arabic logo (1:1, no mockup) for -أيمن تك-. Use a modern square Kufic / geometric Arabic style, where the letters of -أيمن تك- are built as bold, blocky shapes that interlock together like a puzzle. Place -تقنية- in a smaller but integrated way under or beside -أيمن تك-, so that the overall shape looks like one solid logo block. Keep the design very minimal and modern, with sharp edges and subtle negative space that suggests tech and AI. Limit the palette to two colors only. No icons, no gradients, no English text, no 3D. Just a creative geometric Arabic wordmark logo.",
