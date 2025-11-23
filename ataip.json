@@ -3,11 +3,11 @@
     {
       "id": "1",
       "title": "قطة سيبرانية",
-      "model_name": "Midjourney v6",
+      "model_name": "Gemini 3 Pro",
       "is_premium": false,
-      "prompt_ar": "قطة آلية في مدينة المستقبل، أضواء نيون زرقاء ووردية، تفاصيل دقيقة جداً للفرو المعدني، خلفية ضبابية، إضاءة سينمائية.",
-      "prompt_en": "",
-      "image_url": "https://images.unsplash.com/photo-1615751072497-5f5169febe17?q=80&w=800&auto=format&fit=crop",
+      "prompt_ar": "",
+      "prompt_en": "Create a flat geometric Arabic logo (1:1, no mockup) for "أيمن تك". Use a modern square Kufic / geometric Arabic style, where the letters of "أيمن تك" are built as bold, blocky shapes that interlock together like a puzzle. Place "تقنية" in a smaller but integrated way under or beside "أيمن تك", so that the overall shape looks like one solid logo block. Keep the design very minimal and modern, with sharp edges and subtle negative space that suggests tech and AI. Limit the palette to two colors only. No icons, no gradients, no English text, no 3D. Just a creative geometric Arabic wordmark logo.",
+      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/gemini12.png",
       "is_high_res": true
     },
     {
