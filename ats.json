@@ -25,8 +25,91 @@
       }
     ]
   },
+
   {
     "bundle_id": "bundle_002",
+    "user_name": "كيفية جمع النقاط",
+    "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/17636910.png",
+    "is_premium": false,
+    "point_cost": 0,
+    "pages": [
+      {
+        "page_id": "page_101",
+        "type": "image",
+        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://www.ayman-tech.com/"
+      },
+      {
+        "page_id": "page_102",
+        "type": "text",
+        "content": "لا تنس تقييم التطبيق على متجر التطبيقات.",
+        "background_color": "#111198",
+        "text_color": "#FFFFFF",
+        "alignment": "center",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://play.google.com/store/apps/details?id=com.aymantech.app"
+      }
+    ]
+  },
+
+  {
+    "bundle_id": "bundle_003",
+    "user_name": "الويدجت",
+    "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/17637710.png",
+    "is_premium": false,
+    "point_cost": 0,
+    "pages": [
+      {
+        "page_id": "page_101",
+        "type": "image",
+        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://www.ayman-tech.com/"
+      },
+      {
+        "page_id": "page_102",
+        "type": "text",
+        "content": "لا تنس تقييم التطبيق على متجر التطبيقات.",
+        "background_color": "#111198",
+        "text_color": "#FFFFFF",
+        "alignment": "center",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://play.google.com/store/apps/details?id=com.aymantech.app"
+      }
+    ]
+  },
+
+  {
+    "bundle_id": "bundle_004",
+    "user_name": "أوامر توليد الصور",
+    "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/17638710.png",
+    "is_premium": false,
+    "point_cost": 0,
+    "pages": [
+      {
+        "page_id": "page_101",
+        "type": "image",
+        "media_url": "https://i41.servimg.com/u/f41/18/78/64/18/welcom10.jpg",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://www.ayman-tech.com/"
+      },
+      {
+        "page_id": "page_102",
+        "type": "text",
+        "content": "لا تنس تقييم التطبيق على متجر التطبيقات.",
+        "background_color": "#111198",
+        "text_color": "#FFFFFF",
+        "alignment": "center",
+        "duration_seconds": 10,
+        "swipe_up_link": "https://play.google.com/store/apps/details?id=com.aymantech.app"
+      }
+    ]
+  },
+  
+  
+  {
+    "bundle_id": "bundle_005",
     "user_name": "Premium",
     "user_image": "https://i41.servimg.com/u/f41/18/78/64/18/logo_s11.png",
     "is_premium": true,
