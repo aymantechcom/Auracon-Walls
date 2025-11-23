@@ -26,14 +26,14 @@
     },
     {
       "id": "3",
-      "title": "رائد فضاء نيون",
-      "model_name": "DALL-E 3",
+      "title": "شعار عربي بخط الجرافيتي التحولي",
+      "model_name": "NanoBanana",
       "is_premium": true,
-      "prompt_ar": "رائد فضاء يقف وسط شارع مزدحم في طوكيو ليلاً، انعكاسات أضواء النيون الملونة على الخوذة الزجاجية، أسلوب سايبربانك، واقعية مفرطة.",
-      "prompt_en": "Astronaut standing in a busy Tokyo street at night, colorful neon light reflections on the glass helmet, cyberpunk style, hyper realistic.",
-      "image_url": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?q=80&w=800&auto=format&fit=crop",
+      "prompt_ar": "",
+      "prompt_en": "‎Create -أيمن تك- as a morphing calligraffiti, the word transforms into the most iconic visual symbol of its meaning, built entirely from expressive, interwoven calligraphic strokes, bold flowing high-contrast lines forming one cohesive silhouette, vibrant color palette matching the theme of the word, ultra-sharp ink texture, black background, dramatic lighting, clean negative space, premium artistic composition, 8K resolution, 1:1 ratio.",
+      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/gemini15.png",
       "is_high_res": true,
-      "category": "",
+      "category": "Logos",
       "tags": ["logo", "arabic", "Gemini"]
     },
     {
