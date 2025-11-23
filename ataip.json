@@ -21,7 +21,7 @@
       "prompt_en": "Fantasy ancient forest landscape, giant trees glowing from within, tiny flying fairies, magical misty atmosphere, moonlight filtering through branches, 8k resolution.",
       "image_url": "https://images.unsplash.com/photo-1448375240586-dfd8d395ea6c?q=80&w=800&auto=format&fit=crop",
       "is_high_res": true,
-      "category": "Logos",
+      "category": "",
       "tags": ["logo", "arabic", "Gemini"]
     },
     {
@@ -33,7 +33,7 @@
       "prompt_en": "Astronaut standing in a busy Tokyo street at night, colorful neon light reflections on the glass helmet, cyberpunk style, hyper realistic.",
       "image_url": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?q=80&w=800&auto=format&fit=crop",
       "is_high_res": true,
-      "category": "Logos",
+      "category": "",
       "tags": ["logo", "arabic", "Gemini"]
     },
     {
@@ -45,7 +45,7 @@
       "prompt_en": "Oil painting of an old woman with wise features and storytelling wrinkles, dramatic Rembrandt lighting, visible thick brushstrokes, warm brown and golden colors.",
       "image_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop",
       "is_high_res": false,
-      "category": "Logos",
+      "category": "",
       "tags": ["logo", "arabic", "Gemini"]
     },
     {
@@ -57,7 +57,7 @@
       "prompt_en": "Futuristic city blending traditional Islamic architecture with advanced technology, floating golden domes, turquoise glowing geometric patterns, sunset time, wide angle.",
       "image_url": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=800&auto=format&fit=crop",
       "is_high_res": true,
-      "category": "Logos",
+      "category": "",
       "tags": ["logo", "arabic", "Gemini"]
     }
   ]
