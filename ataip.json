@@ -71,6 +71,18 @@
       "is_high_res": true,
       "category": "Infographic",
       "tags": ["infographic", "arabic", "Gemini"]
+    },
+        {
+      "id": "7",
+      "title": "صورة رسمية",
+      "model_name": "NanoBanana",
+      "is_premium": true,
+      "prompt_ar": "صورة جواز سفر فائقة الواقعية. يجب أن يكون الوجه طبيعيًا وواقعيًا للغاية. يرتدي بدلة سوداء مع قميص أبيض وربطة عنق سوداء. تعابير محايدة بفم مغلق، ينظر مباشرة إلى الكاميرا، وكلا الأذنين والكتفين مرئيين. خلفية بيضاء سادة، وإضاءة استوديو متساوية. إخراج ست صور متطابقة بحجم صورة جواز السفر مرتبة على ورقة واحدة، عالية الدقة، بجودة استوديو احترافية.",
+      "prompt_en": "An ultra-realistic passport photo . Face should be natural and highly realistic. He is wearing a black suit with a white shirt and black tie. Neutral closed-lip expression, looking straight at the camera, both ears and shoulders visible. Plain white background, even studio lighting. Output six identical passport-size photos arranged on one sheet, high-resolution, professional studio quality.",
+      "image_url": "https://drive.google.com/thumbnail?id=1wNDqPGsAXJ7osBCKHNecKCTieuuUnEzm&sz=s512",
+      "is_high_res": true,
+      "category": "portrait",
+      "tags": ["portrait", "photo", "Gemini"]
     }
   ]
 }
