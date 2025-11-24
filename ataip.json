@@ -72,7 +72,7 @@
       "category": "Infographic",
       "tags": ["infographic", "arabic", "Gemini"]
     },
-        {
+    {
       "id": "7",
       "title": "صورة رسمية",
       "model_name": "NanoBanana",
@@ -80,6 +80,18 @@
       "prompt_ar": "صورة جواز سفر فائقة الواقعية. يجب أن يكون الوجه طبيعيًا وواقعيًا للغاية. يرتدي بدلة سوداء مع قميص أبيض وربطة عنق سوداء. تعابير محايدة بفم مغلق، ينظر مباشرة إلى الكاميرا، وكلا الأذنين والكتفين مرئيين. خلفية بيضاء سادة، وإضاءة استوديو متساوية. إخراج ست صور متطابقة بحجم صورة جواز السفر مرتبة على ورقة واحدة، عالية الدقة، بجودة استوديو احترافية.",
       "prompt_en": "An ultra-realistic passport photo . Face should be natural and highly realistic. He is wearing a black suit with a white shirt and black tie. Neutral closed-lip expression, looking straight at the camera, both ears and shoulders visible. Plain white background, even studio lighting. Output six identical passport-size photos arranged on one sheet, high-resolution, professional studio quality.",
       "image_url": "https://drive.google.com/thumbnail?id=1wNDqPGsAXJ7osBCKHNecKCTieuuUnEzm&sz=s512",
+      "is_high_res": true,
+      "category": "portrait",
+      "tags": ["portrait", "photo", "Gemini"]
+    }
+    {
+      "id": "8",
+      "title": "المسيرة الخضراء الرقمية",
+      "model_name": "NanoBanana",
+      "is_premium": false,
+      "prompt_ar": "",
+      "prompt_en": "Cinematic, ultra-realistic analog film photograph of the Green March in the Morrocan Sahara desert. use the photo as the principal character , perfectly sharp and still, holding a vibrant red Moroccan flag. Slightly behind the character, an old red truck is filled with people waving Moroccan flags. In the background, a massive marching crowd is rendered in a deep cinematic motion blur, conveying powerful energy and determination. White doves soar gently in the golden sky, symbolizing peace. The scene is captured in a slight low-angle shot with a Hasselblad 50mm f/1.2 lens. The crowd wears a mix of modern and traditional clothing. The atmosphere is one of unity, pride, and national emotion, bathed in a warm golden desert light.",
+      "image_url": "https://drive.google.com/thumbnail?id=1aJc5ewdsJd-Hgp5CBzKH5RHYOsx1M6D3&sz=s512",
       "is_high_res": true,
       "category": "portrait",
       "tags": ["portrait", "photo", "Gemini"]
