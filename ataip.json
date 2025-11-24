@@ -7,7 +7,7 @@
       "is_premium": false,
       "prompt_ar": "اصنع شعارًا عربيًا هندسيًا مسطحًا (بنسبة 1:1، بدون مجسم عرضي) لـ -أيمن تك-. استخدم أسلوب الخط الكوفي المربع الحديث / الهندسي، حيث تُبنى أحرف -أيمن تك- كأشكال جريئة وممتلئة متشابكة معًا مثل الأحجية. ضع كلمة -تقنية- بحجم أصغر ولكن بشكل متكامل أسفل أو بجانب -أيمن تك-، بحيث يبدو الشكل العام ككتلة شعارية واحدة متماسكة. اجعل التصميم بسيطًا جدًا وحديثًا، مع حواف حادة ومساحات سلبية بارعة توحي بالتكنولوجيا والذكاء الاصطناعي. اقصر اللوحة اللونية على لونين فقط. بدون أيقونات، بدون تدرجات، بدون نص إنجليزي، بدون تأثيرات ثلاثية الأبعاد. فقط شعار كلمات عربي هندسي إبداعي.",
       "prompt_en": "Create a flat geometric Arabic logo (1:1, no mockup) for -أيمن تك-. Use a modern square Kufic / geometric Arabic style, where the letters of -أيمن تك- are built as bold, blocky shapes that interlock together like a puzzle. Place -تقنية- in a smaller but integrated way under or beside -أيمن تك-, so that the overall shape looks like one solid logo block. Keep the design very minimal and modern, with sharp edges and subtle negative space that suggests tech and AI. Limit the palette to two colors only. No icons, no gradients, no English text, no 3D. Just a creative geometric Arabic wordmark logo.",
-      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/gemini11.png",
+      "image_url": "https://drive.google.com/thumbnail?id=1PKD4J7QSGlpNuJtR5MY9AeXz-nZ9D-wq&sz=s512",
       "is_high_res": true,
       "category": "Logos",
       "tags": ["logo", "arabic", "Gemini"]
@@ -19,7 +19,7 @@
       "is_premium": true,
       "prompt_ar": "",
       "prompt_en": "Create a flat vector Arabic logo (1:1, no mockup, plain or transparent background) for an AI & education brand called -أيمن تك-. Concept: - Design the words -أيمن تك- as a single calligraphic shape that looks like an elegant feather or traditional Arabic pen. - Use Arabic diacritics (tashkeel) such as فتحة، كسرة، ضمة as part of the decorative style around the letters, but keep the text readable. - The overall silhouette should clearly suggest a feather pointing slightly upwards, symbolizing knowledge, creativity, and writing. Style: - Modern Arabic calligraphy with smooth curves and a few sharp edges for a techy touch. - Flat design, 1–2 colors only (no gradients, no shadows, no 3D). - No English text, no icons, no slogan, only the stylized Arabic name -أيمن تك-.",
-      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/gemini14.png",
+      "image_url": "https://drive.google.com/thumbnail?id=1JI2WZ6f5SEk2gmoAZcd2irqqFELzn0Bz&sz=s256",
       "is_high_res": true,
       "category": "Logos",
       "tags": ["logo", "arabic", "Gemini"]
@@ -28,10 +28,10 @@
       "id": "3",
       "title": "شعار عربي بخط الجرافيتي التحولي",
       "model_name": "NanoBanana",
-      "is_premium": true,
+      "is_premium": false,
       "prompt_ar": "أنشئ شعار -أيمن تك- كعمل فني من خط الجرافيتي التحولي (Morphing Calligraffiti)، حيث تتحول الكلمة إلى الرمز البصري الأكثر شهرة لمعناها، ومبني بالكامل من ضربات خطية معبرة ومتشابكة، وخطوط جريئة متدفقة وعالية التباين تشكل صورة ظلية متماسكة واحدة، مع لوحة ألوان نابضة بالحياة تتناسب مع موضوع الكلمة، ونسيج حبر فائق الوضوح، وخلفية سوداء، وإضاءة درامية، ومساحة سلبية نظيفة، وتكوين فني ممتاز، بدقة 8K، ونسبة 1:1.",
       "prompt_en": "‎Create -أيمن تك- as a morphing calligraffiti, the word transforms into the most iconic visual symbol of its meaning, built entirely from expressive, interwoven calligraphic strokes, bold flowing high-contrast lines forming one cohesive silhouette, vibrant color palette matching the theme of the word, ultra-sharp ink texture, black background, dramatic lighting, clean negative space, premium artistic composition, 8K resolution, 1:1 ratio.",
-      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/gemini15.png",
+      "image_url": "https://drive.google.com/thumbnail?id=1BzUVZ9HeF2A3KpDXJaLAdJ4aE9ZfqxoL&sz=s256",
       "is_high_res": true,
       "category": "Logos",
       "tags": ["logo", "arabic", "Gemini"]
@@ -43,22 +43,34 @@
       "is_premium": true,
       "prompt_ar": "حول صورتي هذه إلى بورتريه معاصر حيث يتم إبراز الشخص بإضاءة نيون ديناميكية بلونين، مع تدرج بين الأزرق البارد والبنفسجي الدافئ يغمر الجسد والملامح، وتلقي الخلفية لونًا أرجوانيًا موحدًا وعميقًا، بينما يظهر تأثير شبحي خفيف كظل خلفي يضيف عمقًا وحركة بصرية.",
       "prompt_en": "Turn this photo of me into a contemporary portrait where the subject is highlighted with dynamic two-tone neon lighting, featuring a gradient from cool blue to warm purple that washes over the body and facial features. The background should take on a deep, uniform violet color, while a subtle ghostly effect appears as a rear shadow, adding depth and visual motion.",
-      "image_url": "https://i41.servimg.com/u/f41/18/78/64/18/17638610.png",
+      "image_url": "https://drive.google.com/thumbnail?id=1RNhytneJDfmxAnvyfESAJ6Nfgbj1U5rC&sz=s256",
       "is_high_res": false,
       "category": "portrait",
       "tags": ["portrait", "Photo", "Gemini"]
     },
     {
       "id": "5",
-      "title": "عمارة إسلامية مستقبلية",
-      "model_name": "Leonardo AI",
+      "title": "مخطوطة مزخرفة بخط عربي أصيل",
+      "model_name": "NanoBanana",
       "is_premium": false,
-      "prompt_ar": "مدينة مستقبلية تدمج العمارة الإسلامية التقليدية مع التكنولوجيا المتقدمة، قباب ذهبية طائرة، زخارف هندسية مضيئة باللون الفيروزي، وقت الغروب، منظور واسع.",
-      "prompt_en": "Futuristic city blending traditional Islamic architecture with advanced technology, floating golden domes, turquoise glowing geometric patterns, sunset time, wide angle.",
-      "image_url": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=800&auto=format&fit=crop",
+      "prompt_ar": "صورة ملصق بسيط ونظيف بخلفية بيضاء عالية الوضوح تعرض اسمًا عربيًا كبيرًا [أيمن] في منتصف الإطار مكتوباً بخط عربي معاصر مزخرف يجمع بين خصائص خط الثلث والديباج (ديواني معدّل) — حروف سميكة وناعمة بمنحنيات واسعة وامتدادات عمودية وطولية أنيقة، الحرف الأول ممتد عموديًا مع ذروة مدببة، والأحرف محشوة باللون الأسود الكامل مع لمعان طفيف يشبه الحبر المطلي بالورنيش؛ فوق وتحت الحروف علامات تشكيل (حركات) بلون أحمر قوي موزعة كزخرفة إيقاعية؛ على جذوع الحروف وإمتداداتها تمتد أغصان وورد زهرية صغيرة (أزهار الكرز) بتفاصيل بتلات وردية فاتحة ومراكز صفراء دقيقة، وعلى الجانب الأيسر لِتكوين توازن زخرفي توجد سِلسلة نباتية سوداء مزخرفة بأوراق ملتفة وزهور متدرجة بين الأسود والوردي والنيللي مع تدرجات صفراء في المراكز؛ عنصر زخرفي كبير بلون تركوازي/فييروزي ملفوف فوق الحروف يشبه نقش أوراق منمنماتية ملتفة مع انسياب واضح؛ حول التكوين نقاط ذهبية لامعة صغيرة متفرقة تشبه رقائق الذهب، وفراشات ملونة بألوان أزرق وبرتقالي متعددة الأحجام تحلق في الجانب الأيمن مع أثر نقطي منحني يربط الحركة؛ تنسيق ثنائي اللغة بحيث يظهر أسفل الخط العربي اسم لاتيني بخط إنجليزي سيريف أنيق ومتحفظ (مشابه لخط Playfair Display أو Didot) حيث الحرف الأول بلون تركوازي مطابق للعناصر الزخرفية وباقي الحروف سوداء، المسافة البيضاء حول التصميم واسعة للحفاظ على «مساحة آمنة» من الحواف، المظهر العام فوتوغرافي-رسومي بمظهر مسطح ونظيف مع تفاصيل دقيقة في الزخارف والزهور، مناسب كـ PNG عالي الدقة أو ملف فيكتور.",
+      "prompt_en": "A high-resolution clean white poster showing a large central Arabic name [أيمن] rendered in a contemporary decorative calligraphic style that blends Thuluth and modern Diwani influences — bold, fluid strokes with long elegant vertical extensions and sweeping curves, the letterforms filled with solid black ink having a subtle varnish sheen; red diacritical marks used deliberately as rhythmic decorative accents; delicate pink cherry-blossom branches and tiny blossoms sprout and wrap along the letter strokes with pale pink petals and small yellow centers; to the left a dense black floral vine ornament with curled leaves and stylized flowers (black with pink and magenta highlights and yellow cores) balances the composition; above the lettering a turquoise/teal ornamental leaf swirl (ornamental arabesque flourish) curves gracefully; scattered around the composition are tiny gold foil-like confetti dots for sparkle and several colorful butterflies (various blues and an orange/yellow) flying on the right with dotted flight-trails; beneath the Arabic typography is the Latin transliteration set in an elegant serif typeface (think Playfair Display / Didot) with the initial character colored the same turquoise as the flourish and the remaining letters in black; ample white safe-margin around the artwork, flat vector/illustrative aesthetic with high detail on floral textures and gold accents, suitable as a 300 DPI PNG or vector file. (Replace the Arabic and Latin names with other names while preserving layout, line weight, colors, ornaments and embellishments).",
+      "image_url": "https://drive.google.com/thumbnail?id=1IcksdIRdpARQ-MxEpmLDUr14uWEwNwCq&sz=s256",
+      "is_high_res": false,
+      "category": "Typography",
+      "tags": ["Typography", "Arabic", "Gemini"]
+    },
+    {
+      "id": "6",
+      "title": "أنفوجرافيك للمعالم الأثرية",
+      "model_name": "NanoBanana",
+      "is_premium": false,
+      "prompt_ar": "",
+      "prompt_en": "Create an infographic image of [صومعة حسان، الرباط، المغرب], combining a real high-resolution photograph of the landmark with blueprint-style white technical annotations and engineering sketches overlaid on top. Include the title “[صومعة حسان، الرباط، المغرب]” inside a hand-drawn box in one corner. Add white chalk-style line drawings showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with clean white line drawings, technical/architectural annotation style, educational infographic look, with the real environment clearly visible behind the annotations, highly detailed, sharp, professional.",
+      "image_url": "https://drive.google.com/thumbnail?id=1VpZ3LFPgkqnEGC0HdWeRvAqpR5bbEsaY&sz=s512",
       "is_high_res": true,
-      "category": "",
-      "tags": ["logo", "arabic", "Gemini"]
+      "category": "Infographic",
+      "tags": ["infographic", "arabic", "Gemini"]
     }
   ]
 }
