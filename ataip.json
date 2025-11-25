@@ -45,7 +45,7 @@
       "prompt_en": "Turn this photo of me into a contemporary portrait where the subject is highlighted with dynamic two-tone neon lighting, featuring a gradient from cool blue to warm purple that washes over the body and facial features. The background should take on a deep, uniform violet color, while a subtle ghostly effect appears as a rear shadow, adding depth and visual motion.",
       "image_url": "https://drive.google.com/thumbnail?id=1RNhytneJDfmxAnvyfESAJ6Nfgbj1U5rC&sz=s256",
       "is_high_res": false,
-      "category": "portrait",
+      "category": "Portrait",
       "tags": ["portrait", "Photo", "Gemini"]
     },
     {
@@ -81,7 +81,7 @@
       "prompt_en": "An ultra-realistic passport photo . Face should be natural and highly realistic. He is wearing a black suit with a white shirt and black tie. Neutral closed-lip expression, looking straight at the camera, both ears and shoulders visible. Plain white background, even studio lighting. Output six identical passport-size photos arranged on one sheet, high-resolution, professional studio quality.",
       "image_url": "https://drive.google.com/thumbnail?id=1wNDqPGsAXJ7osBCKHNecKCTieuuUnEzm&sz=s512",
       "is_high_res": true,
-      "category": "portrait",
+      "category": "Portrait",
       "tags": ["portrait", "photo", "Gemini"]
     },
     {
@@ -93,7 +93,7 @@
       "prompt_en": "Cinematic, ultra-realistic analog film photograph of the Green March in the Morrocan Sahara desert. use the photo as the principal character , perfectly sharp and still, holding a vibrant red Moroccan flag. Slightly behind the character, an old red truck is filled with people waving Moroccan flags. In the background, a massive marching crowd is rendered in a deep cinematic motion blur, conveying powerful energy and determination. White doves soar gently in the golden sky, symbolizing peace. The scene is captured in a slight low-angle shot with a Hasselblad 50mm f/1.2 lens. The crowd wears a mix of modern and traditional clothing. The atmosphere is one of unity, pride, and national emotion, bathed in a warm golden desert light.",
       "image_url": "https://drive.google.com/thumbnail?id=1aJc5ewdsJd-Hgp5CBzKH5RHYOsx1M6D3&sz=s512",
       "is_high_res": true,
-      "category": "portrait",
+      "category": "Portrait",
       "tags": ["portrait", "photo", "Gemini"]
     },
     {
@@ -105,8 +105,20 @@
       "prompt_en": "Cinematic 3D action-packed advertisement of the Product [in the uploaded reference], captured in a dramatic mid-motion scene that embodies its core energy. Use bold studio lighting with intense highlights and deep shadows, dynamic particles, and slow-motion effects to amplify impact. The environment should feel surreal yet hyperrealistic, designed to reflect the product’s personality (crunchy, energetic, fast, luxurious, refreshing, etc.). Integrate the brand logo crafted from product elements if possible, and place a sleek creative slogan beneath it that matches the mood. Composition in 1:1 aspect ratio, hyper-detailed, sharp, bold, and designed to go viral.",
       "image_url": "https://drive.google.com/thumbnail?id=1mZ59Q689g0YDQZCdkMiezKd8x-xfYqba&sz=s512",
       "is_high_res": true,
-      "category": "advertisement",
+      "category": "Advertisements",
       "tags": ["advertisement", "effects", "qwen"]
+    },
+    {
+      "id": "10",
+      "title": "السنة الجديدة 2026",
+      "model_name": "NanoBanana",
+      "is_premium": true,
+      "prompt_ar": "",
+      "prompt_en": "A stylish young man wearing modern casual fashion — jeans, sneakers, and a trendy jacket — sitting confidently on huge glowing 3D metallic numbers -2026- placed at the bottom, with the text -HAPPY NEW YEAR- written above in the same large illuminated style. The lighting is modern and colorful with blue and white neon tones, cinematic reflections, and a festive futuristic background. Ultra-realistic 8K promo image.",
+      "image_url": "https://drive.google.com/thumbnail?id=1fw1AVXdMPb9FGeruvJSlh6POW1jaoCSQ&sz=s512",
+      "is_high_res": true,
+      "category": "Portrait",
+      "tags": ["portrait", "photo", "Gemini"]
     }
   ]
 }
